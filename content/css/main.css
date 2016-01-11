@@ -111,9 +111,9 @@ section:before {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url("../img/cubes.png") repeat;
+    background: url("../img/cubes-blue.png") repeat;
     z-index: -1;
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 
