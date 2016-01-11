@@ -1,0 +1,16 @@
+{
+  "name": "djrollins.io",
+  "version": "0.0.1",
+  "description": "Webserver and content for djrollins.io",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djrollins/djrollins.io.git"
+  },
+  "author": "Daniel J. Rollins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djrollins/djrollins.io/issues"
+  },
+  "homepage": "https://www.djrollins.io"
+}
